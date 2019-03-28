@@ -1,0 +1,12 @@
+{
+  "name": "MAB - Minimal New Tab",
+  "description" : "Time and Date as minimal and beautiful as possible",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "chrome_url_overrides": {
+    "newtab": "mab.html"
+  }
+}
