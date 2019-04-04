@@ -1,7 +1,6 @@
 body{
     font-family: 'Lato Hairline', sans-serif;
     font-weight: 100;
-    font-size: 7rem;
     background-color: #323639;
     color: #bbbbbb;
 }
@@ -15,9 +14,9 @@ body{
 
 img{
     height: 3rem;
-    margin-left: -15px;
-    margin-right: -15px;
-    margin-bottom: 25px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: 33px;
 }
 
 p{
@@ -29,7 +28,7 @@ p{
 .clock{
     text-align: center;
     margin: 0 auto;
-    font-size: 9rem;
+    font-size: 11rem;
 }
 
 .date{
